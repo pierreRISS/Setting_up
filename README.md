@@ -19,7 +19,7 @@
 
 1. Clonez le repository :
    ```
-   git clone https://github.com/votreutilisateur/setting_up.git
+   https://github.com/pierreRISS/Setting_up.git
    ```
 2. Accédez au répertoire du projet :
    ```
